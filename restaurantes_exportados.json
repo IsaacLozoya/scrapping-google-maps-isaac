@@ -1,0 +1,1663 @@
+[
+    {
+        "nombre": "Corazonada Café Restaurante",
+        "direccion": "Cerro De Las Mitras #1801-4, Lomas de San Isidro, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 229 4612",
+        "calificacion": 4.6,
+        "numero_resenas": 105,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 9:00 AM – 9:00 PM",
+            "Tuesday: 9:00 AM – 9:00 PM",
+            "Wednesday: 9:00 AM – 9:00 PM",
+            "Thursday: 9:00 AM – 11:00 PM",
+            "Friday: 9:00 AM – 9:00 PM",
+            "Saturday: 9:00 AM – 9:00 PM",
+            "Sunday: 9:00 AM – 9:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7577372,
+            "lng": -107.4031489
+        }
+    },
+    {
+        "nombre": "Taqueria hacienda del valle",
+        "direccion": "Hacienda del Valle, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 253 4432",
+        "calificacion": 4.5,
+        "numero_resenas": 10,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 6:00 PM – 12:00 AM",
+            "Tuesday: 6:00 PM – 12:00 AM",
+            "Wednesday: 6:00 PM – 12:00 AM",
+            "Thursday: 6:00 PM – 12:00 AM",
+            "Friday: 6:00 PM – 12:00 AM",
+            "Saturday: 6:00 PM – 12:00 AM",
+            "Sunday: 6:00 PM – 12:00 AM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7599738,
+            "lng": -107.4065468
+        }
+    },
+    {
+        "nombre": "QILAI",
+        "direccion": "Lomas de San Isidro 465, Lomas de San Isidro, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 995 7196",
+        "calificacion": 4.8,
+        "numero_resenas": 40,
+        "tipo_cocina": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 3:00 – 10:00 PM",
+            "Thursday: 3:00 – 10:00 PM",
+            "Friday: 3:00 – 10:00 PM",
+            "Saturday: 3:00 – 10:00 PM",
+            "Sunday: 3:00 – 10:00 PM"
+        ],
+        "sitio_web": "https://instagram.com/qilai.restaurant?igshid=YmMyMTA2M2Y=",
+        "coordenadas": {
+            "lat": 24.7631574,
+            "lng": -107.3955731
+        }
+    },
+    {
+        "nombre": "Delicious Park",
+        "direccion": "Profr. Natividad Báez 5848, Hacienda del Valle, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 271 7280",
+        "calificacion": 5,
+        "numero_resenas": 11,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 5:30 – 11:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: 5:30 – 11:30 PM",
+            "Thursday: 5:30 – 11:30 PM",
+            "Friday: 5:30 – 11:30 PM",
+            "Saturday: 5:30 – 11:30 PM",
+            "Sunday: 5:30 – 11:30 PM"
+        ],
+        "sitio_web": "https://instagram.com/food_park_delicious?igshid=MjEwN2IyYWYwYw==",
+        "coordenadas": {
+            "lat": 24.7601466,
+            "lng": -107.4067407
+        }
+    },
+    {
+        "nombre": "La Marisqueria & Grill",
+        "direccion": "Av. Manuel J. Clouthier 5849, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 688 3318",
+        "calificacion": 4.5,
+        "numero_resenas": 270,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 6:00 PM",
+            "Tuesday: 10:00 AM – 6:00 PM",
+            "Wednesday: 10:00 AM – 6:00 PM",
+            "Thursday: 10:00 AM – 8:00 PM",
+            "Friday: 10:00 AM – 8:00 PM",
+            "Saturday: 10:00 AM – 8:00 PM",
+            "Sunday: 10:00 AM – 6:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7482872,
+            "lng": -107.3950195
+        }
+    },
+    {
+        "nombre": "Tosticentro La Guerita",
+        "direccion": "Gral. Rosendo Rodríguez 3474, Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 4.3,
+        "numero_resenas": 45,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 3:00 – 11:30 PM",
+            "Tuesday: 3:00 – 11:30 PM",
+            "Wednesday: 3:00 – 11:30 PM",
+            "Thursday: 3:00 – 11:30 PM",
+            "Friday: 3:00 – 11:30 PM",
+            "Saturday: 3:00 – 11:30 PM",
+            "Sunday: 3:00 – 11:30 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7613374,
+            "lng": -107.4198706
+        }
+    },
+    {
+        "nombre": "\"ANTOJITOS DOÑA FLOR\"",
+        "direccion": "Gral. Rosendo Rodríguez 3559, Estela Ortiz de Toledo, Esthela Ortiz de Toledo, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 4.9,
+        "numero_resenas": 11,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 5:00 – 11:00 PM",
+            "Tuesday: 5:00 – 11:00 PM",
+            "Wednesday: 5:00 – 11:00 PM",
+            "Thursday: 5:00 – 11:00 PM",
+            "Friday: 5:00 – 11:00 PM",
+            "Saturday: 5:00 – 11:00 PM",
+            "Sunday: 5:00 – 11:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7615795,
+            "lng": -107.4198815
+        }
+    },
+    {
+        "nombre": "Pipirin Perisur",
+        "direccion": "Boulevard del mundo 1045, el progreso, Perisur, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 648 9913",
+        "calificacion": 4.6,
+        "numero_resenas": 11,
+        "tipo_cocina": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 5:00 PM",
+            "Tuesday: 10:00 AM – 5:00 PM",
+            "Wednesday: 10:00 AM – 5:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7509582,
+            "lng": -107.3955948
+        }
+    },
+    {
+        "nombre": "Birrieria Mia",
+        "direccion": "C. Prados Del Sol 2367, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 247 7550",
+        "calificacion": 5,
+        "numero_resenas": 2,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 7:00 AM – 12:30 PM",
+            "Friday: 7:00 AM – 12:30 PM",
+            "Saturday: 7:00 AM – 12:30 PM",
+            "Sunday: 7:00 AM – 12:30 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7521634,
+            "lng": -107.4131755
+        }
+    },
+    {
+        "nombre": "Birrieria El Cadete Felipe Ángeles",
+        "direccion": "Av. Constituyentes Hilario Medina 3703, Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 458 4009",
+        "calificacion": 4.6,
+        "numero_resenas": 19,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:30 AM – 2:00 PM",
+            "Sunday: 8:30 AM – 2:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7599165,
+            "lng": -107.4221907
+        }
+    },
+    {
+        "nombre": "El tío sheke",
+        "direccion": "Cruz Gálvez 3360, Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 5,
+        "numero_resenas": 1,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": null,
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7609601,
+            "lng": -107.4193431
+        }
+    },
+    {
+        "nombre": "Mariscos El Aguililla",
+        "direccion": "Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 4.8,
+        "numero_resenas": 19,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": null,
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7621744,
+            "lng": -107.4131706
+        }
+    },
+    {
+        "nombre": "Birrieria El Abuelo",
+        "direccion": "Calle, Mariano Carlón 4960, Rincón del Parque, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 482 8432",
+        "calificacion": 4.7,
+        "numero_resenas": 81,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 3:00 PM",
+            "Tuesday: 7:00 AM – 3:00 PM",
+            "Wednesday: 7:00 AM – 3:00 PM",
+            "Thursday: 7:00 AM – 3:00 PM",
+            "Friday: 7:00 AM – 3:00 PM",
+            "Saturday: 7:00 AM – 3:00 PM",
+            "Sunday: 7:00 AM – 3:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7624449,
+            "lng": -107.410934
+        }
+    },
+    {
+        "nombre": "Café \"La Creación\"",
+        "direccion": "Calz. de las Torres 2374, Prados del Sol, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 275 8037",
+        "calificacion": 4.7,
+        "numero_resenas": 3,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 8:00 PM",
+            "Tuesday: 10:00 AM – 8:00 PM",
+            "Wednesday: 10:00 AM – 8:00 PM",
+            "Thursday: 10:00 AM – 8:00 PM",
+            "Friday: 10:00 AM – 8:00 PM",
+            "Saturday: 10:00 AM – 8:00 PM",
+            "Sunday: Closed"
+        ],
+        "sitio_web": "https://www.facebook.com/lacreacioncaf3/",
+        "coordenadas": {
+            "lat": 24.7541149,
+            "lng": -107.4135317
+        }
+    },
+    {
+        "nombre": "Corazonada Café Restaurante",
+        "direccion": "Cerro De Las Mitras #1801-4, Lomas de San Isidro, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 229 4612",
+        "calificacion": 4.6,
+        "numero_resenas": 105,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 9:00 AM – 9:00 PM",
+            "Tuesday: 9:00 AM – 9:00 PM",
+            "Wednesday: 9:00 AM – 9:00 PM",
+            "Thursday: 9:00 AM – 11:00 PM",
+            "Friday: 9:00 AM – 9:00 PM",
+            "Saturday: 9:00 AM – 9:00 PM",
+            "Sunday: 9:00 AM – 9:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7577372,
+            "lng": -107.4031489
+        }
+    },
+    {
+        "nombre": "Taqueria hacienda del valle",
+        "direccion": "Hacienda del Valle, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 253 4432",
+        "calificacion": 4.5,
+        "numero_resenas": 10,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 6:00 PM – 12:00 AM",
+            "Tuesday: 6:00 PM – 12:00 AM",
+            "Wednesday: 6:00 PM – 12:00 AM",
+            "Thursday: 6:00 PM – 12:00 AM",
+            "Friday: 6:00 PM – 12:00 AM",
+            "Saturday: 6:00 PM – 12:00 AM",
+            "Sunday: 6:00 PM – 12:00 AM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7599738,
+            "lng": -107.4065468
+        }
+    },
+    {
+        "nombre": "QILAI",
+        "direccion": "Lomas de San Isidro 465, Lomas de San Isidro, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 995 7196",
+        "calificacion": 4.8,
+        "numero_resenas": 40,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 3:00 – 10:00 PM",
+            "Thursday: 3:00 – 10:00 PM",
+            "Friday: 3:00 – 10:00 PM",
+            "Saturday: 3:00 – 10:00 PM",
+            "Sunday: 3:00 – 10:00 PM"
+        ],
+        "sitio_web": "https://instagram.com/qilai.restaurant?igshid=YmMyMTA2M2Y=",
+        "coordenadas": {
+            "lat": 24.7631574,
+            "lng": -107.3955731
+        }
+    },
+    {
+        "nombre": "Delicious Park",
+        "direccion": "Profr. Natividad Báez 5848, Hacienda del Valle, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 271 7280",
+        "calificacion": 5,
+        "numero_resenas": 11,
+        "tipo_cocina": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 5:30 – 11:30 PM",
+            "Tuesday: Closed",
+            "Wednesday: 5:30 – 11:30 PM",
+            "Thursday: 5:30 – 11:30 PM",
+            "Friday: 5:30 – 11:30 PM",
+            "Saturday: 5:30 – 11:30 PM",
+            "Sunday: 5:30 – 11:30 PM"
+        ],
+        "sitio_web": "https://instagram.com/food_park_delicious?igshid=MjEwN2IyYWYwYw==",
+        "coordenadas": {
+            "lat": 24.7601466,
+            "lng": -107.4067407
+        }
+    },
+    {
+        "nombre": "La Marisqueria & Grill",
+        "direccion": "Av. Manuel J. Clouthier 5849, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 688 3318",
+        "calificacion": 4.5,
+        "numero_resenas": 270,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 6:00 PM",
+            "Tuesday: 10:00 AM – 6:00 PM",
+            "Wednesday: 10:00 AM – 6:00 PM",
+            "Thursday: 10:00 AM – 8:00 PM",
+            "Friday: 10:00 AM – 8:00 PM",
+            "Saturday: 10:00 AM – 8:00 PM",
+            "Sunday: 10:00 AM – 6:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7482872,
+            "lng": -107.3950195
+        }
+    },
+    {
+        "nombre": "Tosticentro La Guerita",
+        "direccion": "Gral. Rosendo Rodríguez 3474, Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 4.3,
+        "numero_resenas": 45,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 3:00 – 11:30 PM",
+            "Tuesday: 3:00 – 11:30 PM",
+            "Wednesday: 3:00 – 11:30 PM",
+            "Thursday: 3:00 – 11:30 PM",
+            "Friday: 3:00 – 11:30 PM",
+            "Saturday: 3:00 – 11:30 PM",
+            "Sunday: 3:00 – 11:30 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7613374,
+            "lng": -107.4198706
+        }
+    },
+    {
+        "nombre": "\"ANTOJITOS DOÑA FLOR\"",
+        "direccion": "Gral. Rosendo Rodríguez 3559, Estela Ortiz de Toledo, Esthela Ortiz de Toledo, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 4.9,
+        "numero_resenas": 11,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 5:00 – 11:00 PM",
+            "Tuesday: 5:00 – 11:00 PM",
+            "Wednesday: 5:00 – 11:00 PM",
+            "Thursday: 5:00 – 11:00 PM",
+            "Friday: 5:00 – 11:00 PM",
+            "Saturday: 5:00 – 11:00 PM",
+            "Sunday: 5:00 – 11:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7615795,
+            "lng": -107.4198815
+        }
+    },
+    {
+        "nombre": "Pipirin Perisur",
+        "direccion": "Boulevard del mundo 1045, el progreso, Perisur, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 648 9913",
+        "calificacion": 4.6,
+        "numero_resenas": 11,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 5:00 PM",
+            "Tuesday: 10:00 AM – 5:00 PM",
+            "Wednesday: 10:00 AM – 5:00 PM",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7509582,
+            "lng": -107.3955948
+        }
+    },
+    {
+        "nombre": "Birrieria Mia",
+        "direccion": "C. Prados Del Sol 2367, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 247 7550",
+        "calificacion": 5,
+        "numero_resenas": 2,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 7:00 AM – 12:30 PM",
+            "Friday: 7:00 AM – 12:30 PM",
+            "Saturday: 7:00 AM – 12:30 PM",
+            "Sunday: 7:00 AM – 12:30 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7521634,
+            "lng": -107.4131755
+        }
+    },
+    {
+        "nombre": "Birrieria El Cadete Felipe Ángeles",
+        "direccion": "Av. Constituyentes Hilario Medina 3703, Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 458 4009",
+        "calificacion": 4.6,
+        "numero_resenas": 19,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:30 AM – 2:00 PM",
+            "Sunday: 8:30 AM – 2:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7599165,
+            "lng": -107.4221907
+        }
+    },
+    {
+        "nombre": "El tío sheke",
+        "direccion": "Cruz Gálvez 3360, Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 5,
+        "numero_resenas": 1,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": null,
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7609601,
+            "lng": -107.4193431
+        }
+    },
+    {
+        "nombre": "Mariscos El Aguililla",
+        "direccion": "Felipe Angeles, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": null,
+        "calificacion": 4.8,
+        "numero_resenas": 19,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": null,
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7621744,
+            "lng": -107.4131706
+        }
+    },
+    {
+        "nombre": "Birrieria El Abuelo",
+        "direccion": "Calle, Mariano Carlón 4960, Rincón del Parque, Felipe Ángeles, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 482 8432",
+        "calificacion": 4.7,
+        "numero_resenas": 81,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 3:00 PM",
+            "Tuesday: 7:00 AM – 3:00 PM",
+            "Wednesday: 7:00 AM – 3:00 PM",
+            "Thursday: 7:00 AM – 3:00 PM",
+            "Friday: 7:00 AM – 3:00 PM",
+            "Saturday: 7:00 AM – 3:00 PM",
+            "Sunday: 7:00 AM – 3:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7624449,
+            "lng": -107.410934
+        }
+    },
+    {
+        "nombre": "Café \"La Creación\"",
+        "direccion": "Calz. de las Torres 2374, Prados del Sol, 80197 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80197",
+        "telefono": "667 275 8037",
+        "calificacion": 4.7,
+        "numero_resenas": 3,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 8:00 PM",
+            "Tuesday: 10:00 AM – 8:00 PM",
+            "Wednesday: 10:00 AM – 8:00 PM",
+            "Thursday: 10:00 AM – 8:00 PM",
+            "Friday: 10:00 AM – 8:00 PM",
+            "Saturday: 10:00 AM – 8:00 PM",
+            "Sunday: Closed"
+        ],
+        "sitio_web": "https://www.facebook.com/lacreacioncaf3/",
+        "coordenadas": {
+            "lat": 24.7541149,
+            "lng": -107.4135317
+        }
+    },
+    {
+        "nombre": "Bistro Marina Premium",
+        "direccion": "Blvrd Enrique Sánchez Alonso 2077-Local B-029 B-030, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 395 7352",
+        "calificacion": 5,
+        "numero_resenas": 1840,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 8:00 AM – 10:00 PM",
+            "Tuesday: 8:00 AM – 10:00 PM",
+            "Wednesday: 8:00 AM – 10:00 PM",
+            "Thursday: 8:00 AM – 10:00 PM",
+            "Friday: 8:00 AM – 10:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.822777,
+            "lng": -107.4002681
+        }
+    },
+    {
+        "nombre": "Mi Ranchito Los Osuna",
+        "direccion": "Plaza Riveras, Blvrd Alfonso Zaragoza Maytorena 1850, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 170 9517",
+        "calificacion": 4.6,
+        "numero_resenas": 454,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:30 AM – 4:00 PM",
+            "Tuesday: 7:30 AM – 4:00 PM",
+            "Wednesday: 7:30 AM – 4:00 PM",
+            "Thursday: 7:30 AM – 4:00 PM",
+            "Friday: 7:30 AM – 6:00 PM",
+            "Saturday: 7:30 AM – 6:00 PM",
+            "Sunday: 7:30 AM – 6:00 PM"
+        ],
+        "sitio_web": "http://miranchitolososuna.com/",
+        "coordenadas": {
+            "lat": 24.8200622,
+            "lng": -107.4048768
+        }
+    },
+    {
+        "nombre": "Vicentillo's Prime",
+        "direccion": "Blvrd Enrique Sánchez Alonso 2079, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 305 1612",
+        "calificacion": 4.2,
+        "numero_resenas": 70,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 1:00 – 10:00 PM",
+            "Tuesday: 1:00 – 10:00 PM",
+            "Wednesday: 1:00 – 10:00 PM",
+            "Thursday: 1:00 – 10:00 PM",
+            "Friday: 1:00 – 10:00 PM",
+            "Saturday: 1:00 – 10:00 PM",
+            "Sunday: 1:00 – 10:00 PM"
+        ],
+        "sitio_web": "https://vicentillos.com/",
+        "coordenadas": {
+            "lat": 24.8233867,
+            "lng": -107.4010223
+        }
+    },
+    {
+        "nombre": "Ballpark Culiacán",
+        "direccion": "Plaza comercial Cuatro Ríos, Blvrd Enrique Sánchez Alonso 2079, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 308 0335",
+        "calificacion": 4.3,
+        "numero_resenas": 69,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 1:00 – 10:00 PM",
+            "Tuesday: 1:00 – 10:00 PM",
+            "Wednesday: 1:00 – 10:00 PM",
+            "Thursday: 1:00 – 10:00 PM",
+            "Friday: 8:00 AM – 10:00 PM",
+            "Saturday: 8:00 AM – 10:00 PM",
+            "Sunday: 8:00 AM – 10:00 PM"
+        ],
+        "sitio_web": "http://www.ballpark.mx/",
+        "coordenadas": {
+            "lat": 24.8224373,
+            "lng": -107.4007648
+        }
+    },
+    {
+        "nombre": "On Top Kitchen & Bar",
+        "direccion": "Blvd. Rotarismo 2095, Humaya, Bonanza, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 695 6320",
+        "calificacion": 4.9,
+        "numero_resenas": 7,
+        "tipo_cocina": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: 3:00 – 9:45 PM",
+            "Wednesday: 3:00 – 9:45 PM",
+            "Thursday: 3:00 – 9:45 PM",
+            "Friday: 3:00 – 9:45 PM",
+            "Saturday: 3:00 – 9:45 PM",
+            "Sunday: 3:00 – 9:45 PM"
+        ],
+        "sitio_web": "https://instagram.com/ontopkitchenbar",
+        "coordenadas": {
+            "lat": 24.8239554,
+            "lng": -107.4061826
+        }
+    },
+    {
+        "nombre": "All Marina",
+        "direccion": "Sria. de Programación y Presup. 1803-3, Fovissste Humaya, Diamante, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 422 4280",
+        "calificacion": 4.7,
+        "numero_resenas": 37,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 11:00 AM – 2:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8299758,
+            "lng": -107.4140064
+        }
+    },
+    {
+        "nombre": "Murmullos MB, Suc. Culiacán",
+        "direccion": "Blvrd Alfonso Zaragoza Maytorena 1364, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 146 2580",
+        "calificacion": 4.5,
+        "numero_resenas": 859,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 12:00 AM",
+            "Tuesday: 7:00 AM – 12:00 AM",
+            "Wednesday: 7:00 AM – 12:00 AM",
+            "Thursday: 7:00 AM – 1:00 AM",
+            "Friday: 7:00 AM – 1:00 AM",
+            "Saturday: 7:00 AM – 1:00 AM",
+            "Sunday: 7:00 AM – 12:00 AM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.81331299999999,
+            "lng": -107.4082454
+        }
+    },
+    {
+        "nombre": "Yokozuna Ramen",
+        "direccion": "Blvrd Enrique Sánchez Alonso 2077, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 350 9000",
+        "calificacion": 4.7,
+        "numero_resenas": 697,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 1:00 – 8:00 PM",
+            "Tuesday: 1:00 – 8:00 PM",
+            "Wednesday: 1:00 – 8:00 PM",
+            "Thursday: 1:00 – 8:00 PM",
+            "Friday: 1:00 – 8:00 PM",
+            "Saturday: 1:00 – 8:00 PM",
+            "Sunday: 1:00 – 8:00 PM"
+        ],
+        "sitio_web": "https://reeply.mx/yokozunaramencln/",
+        "coordenadas": {
+            "lat": 24.8231859,
+            "lng": -107.4010358
+        }
+    },
+    {
+        "nombre": "Cabanna Restaurant",
+        "direccion": "Blvd. Francisco Labastida Ochoa 1695, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 712 0919",
+        "calificacion": 4.7,
+        "numero_resenas": 5712,
+        "tipo_cocina": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 8:00 AM – 6:00 PM",
+            "Sunday: 8:00 AM – 6:00 PM"
+        ],
+        "sitio_web": "https://cabanna.com.mx/",
+        "coordenadas": {
+            "lat": 24.8158402,
+            "lng": -107.3998847
+        }
+    },
+    {
+        "nombre": "Almacén del Bife Culiacan",
+        "direccion": "Centro comercial Cuatro Ríos, Blvrd Enrique Sánchez Alonso 2079, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 764 4354",
+        "calificacion": 4.7,
+        "numero_resenas": 73,
+        "tipo_cocina": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 1:30 PM – 12:00 AM",
+            "Tuesday: 1:30 PM – 12:00 AM",
+            "Wednesday: 1:30 PM – 12:00 AM",
+            "Thursday: 1:30 PM – 12:00 AM",
+            "Friday: 1:30 PM – 12:00 AM",
+            "Saturday: 1:30 PM – 12:00 AM",
+            "Sunday: 1:30 – 7:00 PM"
+        ],
+        "sitio_web": "http://www.almacendelbife.com/",
+        "coordenadas": {
+            "lat": 24.8226573,
+            "lng": -107.400707
+        }
+    },
+    {
+        "nombre": "La Terraza Restaurante",
+        "direccion": "Diego Valadés Ríos 99, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 759 0000",
+        "calificacion": 4.5,
+        "numero_resenas": 187,
+        "tipo_cocina": [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 6:00 AM – 10:00 PM",
+            "Tuesday: 6:00 AM – 10:00 PM",
+            "Wednesday: 6:00 AM – 10:00 PM",
+            "Thursday: 6:00 AM – 10:00 PM",
+            "Friday: 6:00 AM – 10:00 PM",
+            "Saturday: 6:00 AM – 10:00 PM",
+            "Sunday: 6:00 AM – 10:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8137117,
+            "lng": -107.3984685
+        }
+    },
+    {
+        "nombre": "Rosa Matcha",
+        "direccion": "Blvrd Enrique Sánchez Alonso 1635, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 767 9133",
+        "calificacion": 4.4,
+        "numero_resenas": 176,
+        "tipo_cocina": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 10:30 PM",
+            "Tuesday: 7:00 AM – 10:30 PM",
+            "Wednesday: 7:00 AM – 10:30 PM",
+            "Thursday: 7:00 AM – 10:30 PM",
+            "Friday: 7:00 AM – 10:30 PM",
+            "Saturday: 7:00 AM – 10:30 PM",
+            "Sunday: 7:00 AM – 10:30 PM"
+        ],
+        "sitio_web": "https://rosamatcha.com/",
+        "coordenadas": {
+            "lat": 24.8293944,
+            "lng": -107.3995742
+        }
+    },
+    {
+        "nombre": "Seafood By Mr. Salmon",
+        "direccion": "Enrique Félix Castro 2115, Humaya, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 576 1167",
+        "calificacion": 4.7,
+        "numero_resenas": 726,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: 11:00 AM – 7:00 PM",
+            "Wednesday: 11:00 AM – 7:00 PM",
+            "Thursday: 11:00 AM – 7:00 PM",
+            "Friday: 11:00 AM – 8:00 PM",
+            "Saturday: 11:00 AM – 8:00 PM",
+            "Sunday: 11:00 AM – 8:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8216312,
+            "lng": -107.4093016
+        }
+    },
+    {
+        "nombre": "Venus club",
+        "direccion": "plazas, Deportiva, Infonavit Humaya, Humaya, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": null,
+        "calificacion": 4.6,
+        "numero_resenas": 647,
+        "tipo_cocina": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 2:00 – 7:00 AM",
+            "Tuesday: 2:00 – 7:00 AM",
+            "Wednesday: 2:00 – 7:00 AM",
+            "Thursday: 2:00 – 7:00 AM",
+            "Friday: 2:00 – 7:00 AM",
+            "Saturday: 2:00 – 7:00 AM",
+            "Sunday: 2:00 – 7:00 AM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8240387,
+            "lng": -107.4166263
+        }
+    },
+    {
+        "nombre": "Bonhomia - Cafe - Tres Ríos",
+        "direccion": "Blvrd Enrique Sánchez Alonso 2093, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 162 9595",
+        "calificacion": 4.5,
+        "numero_resenas": 677,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 8:00 AM – 11:00 PM",
+            "Tuesday: 8:00 AM – 11:00 PM",
+            "Wednesday: 8:00 AM – 11:00 PM",
+            "Thursday: 8:00 AM – 11:00 PM",
+            "Friday: 8:00 AM – 11:00 PM",
+            "Saturday: 8:00 AM – 11:00 PM",
+            "Sunday: 8:00 AM – 11:00 PM"
+        ],
+        "sitio_web": "https://www.bonhomiacafe.mx/",
+        "coordenadas": {
+            "lat": 24.8258053,
+            "lng": -107.4003378
+        }
+    },
+    {
+        "nombre": "Omi Restaurante",
+        "direccion": "Desarrollo Urbano Omi Restaurante, Blvrd Alfonso Zaragoza Maytorena, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 578 8560",
+        "calificacion": 3.8,
+        "numero_resenas": 137,
+        "tipo_cocina": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:30 AM – 2:30 PM",
+            "Tuesday: 7:30 AM – 2:30 PM",
+            "Wednesday: 7:30 AM – 2:30 PM",
+            "Thursday: 7:30 AM – 2:30 PM",
+            "Friday: 7:30 AM – 2:30 PM",
+            "Saturday: 7:30 AM – 2:30 PM",
+            "Sunday: 7:30 AM – 2:30 PM"
+        ],
+        "sitio_web": "https://instagram.com/omicafeemx?igshid=MmJiY2I4NDBkZg==",
+        "coordenadas": {
+            "lat": 24.8228639,
+            "lng": -107.4039454
+        }
+    },
+    {
+        "nombre": "Casanova Cantina",
+        "direccion": "Diego Valadés Ríos 100, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80020",
+        "telefono": "667 105 6590",
+        "calificacion": 4.4,
+        "numero_resenas": 471,
+        "tipo_cocina": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 5:00 – 11:00 PM",
+            "Friday: 5:00 PM – 12:00 AM",
+            "Saturday: Open 24 hours",
+            "Sunday: Closed"
+        ],
+        "sitio_web": "http://nocturna.mx/",
+        "coordenadas": {
+            "lat": 24.8147712,
+            "lng": -107.3981853
+        }
+    },
+    {
+        "nombre": "Casa Bon",
+        "direccion": "Calle Gral. Angel Flores 371, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 403 6183",
+        "calificacion": 4.6,
+        "numero_resenas": 803,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 8:00 AM – 6:00 PM",
+            "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "sitio_web": "http://instagram.com/casabonrestaurante",
+        "coordenadas": {
+            "lat": 24.8095645,
+            "lng": -107.3910373
+        }
+    },
+    {
+        "nombre": "Casa Anamaya",
+        "direccion": "Calle Gral. Angel Flores 416, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": null,
+        "calificacion": 4.5,
+        "numero_resenas": 210,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: 8:00 AM – 2:00 PM",
+            "Wednesday: 8:00 AM – 2:00 PM",
+            "Thursday: 8:00 AM – 2:00 PM",
+            "Friday: 8:00 AM – 2:00 PM",
+            "Saturday: 8:00 AM – 2:00 PM",
+            "Sunday: 8:00 AM – 2:00 PM"
+        ],
+        "sitio_web": "https://www.instagram.com/casaanamayamx/",
+        "coordenadas": {
+            "lat": 24.809491,
+            "lng": -107.390312
+        }
+    },
+    {
+        "nombre": "La Sazona",
+        "direccion": "Calle General Angel Flores, Esquina con, Av. Aquiles Serdán 389, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 733 4452",
+        "calificacion": 4.6,
+        "numero_resenas": 682,
+        "tipo_cocina": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: 1:00 – 11:00 PM",
+            "Wednesday: 1:00 – 11:00 PM",
+            "Thursday: 1:00 – 11:00 PM",
+            "Friday: 1:00 PM – 1:00 AM",
+            "Saturday: 1:00 PM – 1:00 AM",
+            "Sunday: 1:00 – 11:00 PM"
+        ],
+        "sitio_web": "https://instagram.com/la_sazona",
+        "coordenadas": {
+            "lat": 24.8095671,
+            "lng": -107.3908418
+        }
+    },
+    {
+        "nombre": "Restaurant Santa Fe",
+        "direccion": "Hidalgo, Poniente 321, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 716 2995",
+        "calificacion": 4.5,
+        "numero_resenas": 89,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 9:00 PM",
+            "Tuesday: 7:00 AM – 9:00 PM",
+            "Wednesday: 7:00 AM – 9:00 PM",
+            "Thursday: 7:00 AM – 9:00 PM",
+            "Friday: 7:00 AM – 9:00 PM",
+            "Saturday: 7:00 AM – 9:00 PM",
+            "Sunday: 7:00 AM – 4:00 PM"
+        ],
+        "sitio_web": "http://santaferestauranteculiacan.com/",
+        "coordenadas": {
+            "lat": 24.8077512,
+            "lng": -107.3985489
+        }
+    },
+    {
+        "nombre": "Restaurante Rinconcito La Majada",
+        "direccion": "Calle Francisco Javier Mina 1597, Centro Sinaloa, Col. Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 120 3065",
+        "calificacion": 4.7,
+        "numero_resenas": 576,
+        "tipo_cocina": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 1:00 PM",
+            "Tuesday: 7:00 AM – 1:00 PM",
+            "Wednesday: 7:00 AM – 1:00 PM",
+            "Thursday: 7:00 AM – 1:00 PM",
+            "Friday: 7:00 AM – 1:00 PM",
+            "Saturday: 7:00 AM – 1:00 PM",
+            "Sunday: 7:00 AM – 1:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.7952676,
+            "lng": -107.409966
+        }
+    },
+    {
+        "nombre": "Restaurante Siento & Tantos",
+        "direccion": "Calle Gral. Angel Flores 168, Primer Cuadro, Colonia Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 525 0660",
+        "calificacion": 4.3,
+        "numero_resenas": 435,
+        "tipo_cocina": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 8:00 AM – 2:00 PM",
+            "Tuesday: 8:00 AM – 2:00 PM",
+            "Wednesday: 8:00 AM – 2:00 PM",
+            "Thursday: 8:00 AM – 2:00 PM",
+            "Friday: 8:00 AM – 2:00 PM",
+            "Saturday: 8:00 AM – 2:00 PM",
+            "Sunday: 8:00 AM – 2:00 PM"
+        ],
+        "sitio_web": "https://www.facebook.com/sientoytantos",
+        "coordenadas": {
+            "lat": 24.809113,
+            "lng": -107.3928627
+        }
+    },
+    {
+        "nombre": "Palomar de los Pobres",
+        "direccion": "Blvd. Francisco I. Madero 351, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 752 0040",
+        "calificacion": 4.3,
+        "numero_resenas": 2063,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 8:00 PM",
+            "Saturday: 8:00 AM – 8:00 PM",
+            "Sunday: 8:00 AM – 8:00 PM"
+        ],
+        "sitio_web": "http://palomardelospobres.com.mx/",
+        "coordenadas": {
+            "lat": 24.8046611,
+            "lng": -107.39891
+        }
+    },
+    {
+        "nombre": "Los Antiguos Portales de Culiacán",
+        "direccion": "Ruperto L. Paliza 574, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 752 1978",
+        "calificacion": 4.2,
+        "numero_resenas": 533,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 12:00 AM",
+            "Tuesday: 7:00 AM – 12:00 AM",
+            "Wednesday: 7:00 AM – 12:00 AM",
+            "Thursday: 7:00 AM – 12:00 AM",
+            "Friday: 7:00 AM – 1:00 AM",
+            "Saturday: 7:00 AM – 1:00 AM",
+            "Sunday: 7:00 AM – 12:00 AM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.809856,
+            "lng": -107.393705
+        }
+    },
+    {
+        "nombre": "Bar El Guayabo",
+        "direccion": "Calle Francisco Villa & Vicente Riva Palacio, Centro Sinaloa, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 712 2557",
+        "calificacion": 4.6,
+        "numero_resenas": 2151,
+        "tipo_cocina": [
+            "restaurant",
+            "bar",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 12:00 – 11:00 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 8:00 PM"
+        ],
+        "sitio_web": "https://www.facebook.com/ForodelSaber/",
+        "coordenadas": {
+            "lat": 24.8034197,
+            "lng": -107.4004868
+        }
+    },
+    {
+        "nombre": "KAES Restaurante + Café",
+        "direccion": "Calle Cristobal Colón Avenida, Lateral Oriente 748 A, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 275 9907",
+        "calificacion": 4.7,
+        "numero_resenas": 150,
+        "tipo_cocina": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: Closed",
+            "Tuesday: 7:00 AM – 2:00 PM",
+            "Wednesday: 7:00 AM – 2:00 PM",
+            "Thursday: 7:00 AM – 2:00 PM",
+            "Friday: 7:00 AM – 2:00 PM",
+            "Saturday: 7:00 AM – 2:00 PM",
+            "Sunday: 7:00 AM – 2:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8059093,
+            "lng": -107.3860509
+        }
+    },
+    {
+        "nombre": "Ipanema Do Brasil",
+        "direccion": "Mariano Escobedo 373, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 569 5811",
+        "calificacion": 4.4,
+        "numero_resenas": 1080,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 12:00 – 8:00 PM",
+            "Tuesday: 12:00 – 8:00 PM",
+            "Wednesday: 12:00 – 8:00 PM",
+            "Thursday: 12:00 – 8:00 PM",
+            "Friday: 12:00 – 8:00 PM",
+            "Saturday: 12:00 – 8:00 PM",
+            "Sunday: 12:00 – 8:00 PM"
+        ],
+        "sitio_web": "https://www.facebook.com/share/1AJnAq7DUx/?mibextid=wwXIfr",
+        "coordenadas": {
+            "lat": 24.8063198,
+            "lng": -107.3993996
+        }
+    },
+    {
+        "nombre": "La Bodega Wings & Beer",
+        "direccion": "Calle Gral. Angel Flores 183, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 275 5225",
+        "calificacion": 4.4,
+        "numero_resenas": 645,
+        "tipo_cocina": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 12:00 PM – 1:00 AM",
+            "Tuesday: Closed",
+            "Wednesday: 12:00 PM – 1:00 AM",
+            "Thursday: 12:00 PM – 1:00 AM",
+            "Friday: 12:00 PM – 1:00 AM",
+            "Saturday: 12:00 PM – 1:00 AM",
+            "Sunday: 12:00 PM – 1:00 AM"
+        ],
+        "sitio_web": "http://instagram.com/labodegacln",
+        "coordenadas": {
+            "lat": 24.8092916,
+            "lng": -107.3927109
+        }
+    },
+    {
+        "nombre": "Karnes en su Jugo",
+        "direccion": "Blvd Fco I. Madero, Oriente 153, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 712 7877",
+        "calificacion": 4.2,
+        "numero_resenas": 1077,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 10:00 AM – 10:00 PM",
+            "Tuesday: 10:00 AM – 10:00 PM",
+            "Wednesday: 10:00 AM – 10:00 PM",
+            "Thursday: 10:00 AM – 10:00 PM",
+            "Friday: 10:00 AM – 10:00 PM",
+            "Saturday: 10:00 AM – 10:00 PM",
+            "Sunday: 10:00 AM – 10:00 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8049771,
+            "lng": -107.3924831
+        }
+    },
+    {
+        "nombre": "Pipirin Restaurante",
+        "direccion": "Primer Cuadro General Angel Flores 71, Calle Gral. Angel Flores 75, Centro, Primer Cuadro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 713 8006",
+        "calificacion": 4.3,
+        "numero_resenas": 858,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: Closed"
+        ],
+        "sitio_web": "http://www.elpipirin.com/",
+        "coordenadas": {
+            "lat": 24.8089814,
+            "lng": -107.3954936
+        }
+    },
+    {
+        "nombre": "Casa María",
+        "direccion": "Av Gral Ramón Corona, Primer Cuadro, centro, 80000 Culiacán Rosales, Sin., Mexico",
+        "codigo_postal": "80000",
+        "telefono": "667 712 5095",
+        "calificacion": 4.5,
+        "numero_resenas": 1901,
+        "tipo_cocina": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "horario": [
+            "Monday: 7:00 AM – 1:30 PM",
+            "Tuesday: 7:00 AM – 1:30 PM",
+            "Wednesday: 7:00 AM – 1:30 PM",
+            "Thursday: 7:00 AM – 1:30 PM",
+            "Friday: 7:00 AM – 1:30 PM",
+            "Saturday: 7:00 AM – 1:30 PM",
+            "Sunday: 7:00 AM – 1:30 PM"
+        ],
+        "sitio_web": null,
+        "coordenadas": {
+            "lat": 24.8077618,
+            "lng": -107.3913281
+        }
+    }
+]
