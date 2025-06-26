@@ -25,7 +25,11 @@
 ```bash
 Para instalar:
 
-pip install -r requerimientos.txt
+Clonar el repositorio:
+
+git clone https://github.com/IsaacLozoya/scrapping-google-maps-isaac
+
+pip install -r requisitos.txt
 
 Para Ejecutar:
 
